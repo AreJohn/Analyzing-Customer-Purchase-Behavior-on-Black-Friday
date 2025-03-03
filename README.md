@@ -50,7 +50,7 @@
 
 ###### •	I created a new column called Age_Group from the Age column by replacing the age groups to Children & Teenagers, Young Adults, Adults, Middle Aged Adults, Older Adults, Young Seniors and Seniors. 
 
-!(Age Group)[https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/Agegroup.PNG]
+![Age Group](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/Agegroup.PNG)
 
 ## Analysis 
 #### These are the questions that will guide my analysis:
