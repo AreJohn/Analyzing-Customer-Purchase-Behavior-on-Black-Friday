@@ -9,7 +9,7 @@
 ##### As a data analyst working in the marketing analytics team at ALLMart Company, your role is important in interpreting patterns of customer purchase behavior during black Friday. You are tasked with finding the preferences and tendencies of our diverse customer base. Your goal is to discover insights that will not only enhance our understanding of black Friday dynamics but also discover insights that will help ALLMart tailor its offerings and services to meet the unique needs of our customers. 
 
 ## Data Collection 
-#### The dataset was gotten from ![Kaggle](https://www.kaggle.com/datasets/akashpawar10/wallmart-dataset/) and, it contains the following information:
+#### The dataset was gotten from [Kaggle](https://www.kaggle.com/datasets/akashpawar10/wallmart-dataset/) and, it contains the following information:
 ###### •	User_ID: Unique identifier for each customer.
 ###### •	Product_ID: Unique identifier for each product.
 ###### •	Gender: Gender of the customer.
