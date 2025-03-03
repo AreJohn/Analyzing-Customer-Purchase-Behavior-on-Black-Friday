@@ -91,7 +91,7 @@
 
 ##### 7.	Generally, Black Friday spending tends to decrease with longer city residency , except customers who spent less than a year who had the least purchase and customers who spent a year had the highest purchase.
  
-![city residency](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/stay%20in%20current%20city%20years%20.PNG)
+![City residency](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/stay%20in%20current%20city%20years%20.PNG)
 
 ##### 8.	To determine how City_Category influence customer purchase, I started by finding the number of customers in different cities 
 
