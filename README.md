@@ -95,7 +95,7 @@
 
 ##### 8.	To determine how City_Category influence customer purchase, I started by finding the number of customers in different cities 
 
-![City population](http://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/population%20of%20customers.PNG)
+![City population](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/population%20of%20customers.PNG)
  
 ##### city B had the highest population of customers. This city is likely a metropolitan area with high economic development.
 
