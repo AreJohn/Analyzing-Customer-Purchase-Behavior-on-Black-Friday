@@ -2,6 +2,16 @@
 
 ##### This project analyzes Black Friday customer purchase data using Excel to uncover spending patterns and demographics. It provides insights for targeted marketing strategies and sales optimization.
 
+## Table of Contents
+- [Introduction](Introduction)
+- [Scenario](Scenario)
+- [Data Collection](Data-Collection)
+- [Data Processing & Cleaning](Data-Processing-&-Cleaning)
+- [Analysis](Analysis)
+- [Insights](Insights)
+- [Recommendations](Recommendations)
+- [Dashboard](Dashboard)
+
 ## Introduction 
 ##### Black Friday, an annual shopping event occurs after Thanksgiving has evolved into a global retail phenomenon. This day marks the start of Christmas shopping season where ecommerce companies offer high promoted sales at discounted prices. It is also the busiest shopping day of the year. Businesses prepare for this day to boost sales and attract customers.
 
