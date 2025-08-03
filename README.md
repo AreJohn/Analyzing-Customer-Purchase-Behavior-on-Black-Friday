@@ -1,6 +1,11 @@
 # Analyzing-Customer-Purchase-Behavior-on-Black-Friday
 
-##### This project analyzes Black Friday customer purchase data using Excel to uncover spending patterns and demographics. It provides insights for targeted marketing strategies and sales optimization.
+## 📊 Project Summary
+##### -Goal: Analyze Black Friday customer purchase behavior to uncover actionable insights.
+##### Tools: Excel (Pivot tables, IF statements, Dashboard)
+##### Skills Demonstrated: Data cleaning, segmentation, business insights, data storytelling
+##### Dataset: 550,000+ records from Kaggle
+
 
 ## Table of Contents
 - [Introduction](#Introduction)
@@ -13,7 +18,7 @@
 - [Dashboard](#Dashboard)
 
 ## Introduction 
-##### Black Friday, an annual shopping event occurs after Thanksgiving has evolved into a global retail phenomenon. This day marks the start of Christmas shopping season where ecommerce companies offer high promoted sales at discounted prices. It is also the busiest shopping day of the year. Businesses prepare for this day to boost sales and attract customers.
+##### Black Friday, an annual shopping event occurs after Thanksgiving has evolved into a global retail phenomenon. This day marks the start of Christmas shopping season where Ecommerce companies offer heavily promoted sales at discounted prices. It is also the busiest shopping day of the year. Businesses prepare for this day to boost sales and attract customers.
 
 ## Scenario
 ##### As a data analyst working in the marketing analytics team at ALLMart Company, your role is important in interpreting patterns of customer purchase behavior during black Friday. You are tasked with finding the preferences and tendencies of our diverse customer base. Your goal is to discover insights that will not only enhance our understanding of black Friday dynamics but also discover insights that will help ALLMart tailor its offerings and services to meet the unique needs of our customers. 
@@ -39,7 +44,7 @@
 
 ![Explore](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/explore.PNG)
  
-##### The dataset contains 10 columns and 550069 rows. The data looks good, I’ll need to work on Gender, Age and Marital_Status table so that they can be useful for analysis.
+##### The dataset contains 10 columns and 550,069 rows. The data looks good, I’ll need to work on Gender, Age and Marital_Status table so that they can be useful for analysis.
 
 ###### 1.	I used Excel's Remove duplicates feature to check for duplicates, the data did not contain duplicates.
  
@@ -49,7 +54,7 @@
 
 ![blanks](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/blanks%20.PNG)
  
-##### Its time to verify the data and make sure its in the right format for analysis:
+##### Next, I verified and formatted the data to ensure it was ready for analysis:
 ###### •	Change ‘M’ to Male and ‘F’ to Female from the Gender to the Sex column so it can be understood in data visualization 
 
 ![Male](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/replace%20male%20.PNG)
@@ -86,15 +91,15 @@
 
 ![purchase by sex](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/what%20gender%20bought%20more.PNG)
  
-##### 4.	Average Purchase gradually increases across age groups with children spending the least at $8933 and young seniors spending the most at $9535. Interestingly, all age groups expect *Middle Aged Adults, Seniors and Young Seniors* spend *below the overall purchase average*.
+##### 4.	Average Purchase gradually increases across age groups with children spending the least at $8933 and young seniors spending the most at $9535. Interestingly, all age groups except *Middle Aged Adults, Seniors and Young Seniors* spend *below the overall purchase average*.
 
 ![purchase by age group](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/Overall%20Average%20Purchase%20for%20agegroups.PNG)
  
-##### 6.	Single customers spent more than married customers accounting for 59% of purchase.
+##### 5.	Single customers spent more than married customers accounting for 59% of purchase.
 
 ![purchase by marital status](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/sum%20of%20purchase%20married%20vs%20single.PNG)
  
-##### 8.	The criteria I used to get high-value products are the top 10 products by purchase. I filtered the top 10 products with the highest average and I used AVERAGE formula to find the average. 
+##### 6.	The criteria I used to get high-value products are the top 10 products by purchase. I filtered the top 10 products with the highest average and I used AVERAGE formula to find the average. 
 ##### The average purchase amount for high-value products is $14,513.
 
 ![High Value Products](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/high%20volume%20products%20.PNG)
@@ -123,7 +128,7 @@
 ##### 1.	The number of customers that participated in this edition of black Friday was 550,069.
 ##### 2.	The average amount spent by each customer is $9264.
 ##### 3.	The total amount spent by customers was $5,095,812,742.
-##### 4.	Average Purchase gradually increases across age groups with children spending the least at $8933 and young seniors spending the most at $9535. Interestingly, all age groups expect Middle Aged Adults, Seniors and Young Seniors spent below the overall average purchase.
+##### 4.	Average Purchase gradually increases across age groups with children spending the least at $8933 and young seniors spending the most at $9535. Interestingly, all age groups except Middle Aged Adults, Seniors and Young Seniors spent below the overall average purchase.
 ##### 5.	Single customers spent more than married customers accounting for 59% of purchase.
 ##### 6.	The average purchase amount for high-value products is $14,513, this indicates that customers are willing to spend more for premium products, providing an opportunity for targeted marketing.
 ##### 7.	The longer a customer stays in their current city in years the less they spend on black Friday except customers who spend less than a year who spent the least and customers who spend exactly a year had the highest purchase. This indicates that the number of years a customer spends in their city plays an important role in purchase.
