@@ -149,6 +149,6 @@
 
 
 ## Dashboard
-![dashboard](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/dashboard%20final.PNG) 
+![dashboard](https://github.com/AreJohn/Analyzing-Customer-Purchase-Behavior-on-Black-Friday/blob/main/assets/images/dashboard.PNG) 
 
 
