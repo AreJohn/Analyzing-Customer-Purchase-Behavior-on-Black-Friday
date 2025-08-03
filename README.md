@@ -1,10 +1,10 @@
 # Analyzing-Customer-Purchase-Behavior-on-Black-Friday
 
-## 📊 Project Summary
-##### -Goal: Analyze Black Friday customer purchase behavior to uncover actionable insights.
-##### Tools: Excel (Pivot tables, IF statements, Dashboard)
-##### Skills Demonstrated: Data cleaning, segmentation, business insights, data storytelling
-##### Dataset: 550,000+ records from Kaggle
+## Project Summary
+##### - Goal: Analyze Black Friday customer purchase behavior to uncover actionable insights.
+##### - Tools: Excel (Pivot tables, IF statements, Dashboard)
+##### - Skills Demonstrated: Data cleaning, segmentation, business insights, data storytelling
+##### - Dataset: 550,000+ records from Kaggle
 
 
 ## Table of Contents
